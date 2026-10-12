@@ -1,1 +1,43 @@
+# Va en el repo en:  .github/workflows/update-prices.yml
+name: Actualizar precios KiteCo
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'   # todos los lunes 11:00 UTC (~08:00 en Argentina)
+  workflow_dispatch: {}      # permite correrlo a mano desde la pestaña "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el repo
+        uses: actions/checkout@v4
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install puppeteer
+
+      - name: Leer precios de Santa Tabla y actualizar productos.json
+        run: node scrape-santatabla.js
+
+      - name: Subir productos.json a DonWeb (FTP)
+        run: >
+          curl --fail --silent --show-error -T productos.json
+          -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}"
+          "ftp://${{ secrets.FTP_HOST }}/${{ secrets.FTP_PATH }}/productos.json"
+
+      - name: Guardar el cambio en el repo (historial de precios)
+        run: |
+          git config user.name "kiteco-bot"
+          git config user.email "bot@kiteco.local"
+          git add productos.json
+          git commit -m "Precios actualizados $(date +%F)" || echo "sin cambios"
+          git push || echo "nada para pushear"
 
