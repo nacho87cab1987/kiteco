@@ -8,10 +8,35 @@
       "marca": "North",
       "modelo": "Orbit",
       "anio": 2026,
-      "usd": 1872,
+      "usd": 2080,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700",
       "sizes": "6 a 14 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "6 m²",
+          "usd": 2080
+        },
+        {
+          "talle": "7 m²",
+          "usd": 2177
+        },
+        {
+          "talle": "8 m²",
+          "usd": 2274
+        },
+        {
+          "talle": "10 m²",
+          "usd": 2455
+        },
+        {
+          "talle": "12 m²",
+          "usd": 2661
+        },
+        {
+          "talle": "14 m²",
+          "usd": 2770
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -46,10 +71,51 @@
       "marca": "North",
       "modelo": "Reach",
       "anio": 2025,
-      "usd": 1806,
+      "usd": 2007,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_REACH-TIRQUASE_1748X2300_c6a9f751-8c98-4e59-853a-4dd177e1094d.png?v=1773147848&width=700",
       "sizes": "7 a 15 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "6m m²",
+          "usd": 2007
+        },
+        {
+          "talle": "7m m²",
+          "usd": 2104
+        },
+        {
+          "talle": "8m m²",
+          "usd": 2201
+        },
+        {
+          "talle": "9m m²",
+          "usd": 2298
+        },
+        {
+          "talle": "9 m²",
+          "usd": 2298
+        },
+        {
+          "talle": "11m m²",
+          "usd": 2503
+        },
+        {
+          "talle": "12m m²",
+          "usd": 2600
+        },
+        {
+          "talle": "13 m²",
+          "usd": 2697
+        },
+        {
+          "talle": "15 m²",
+          "usd": 2891
+        },
+        {
+          "talle": "17m m²",
+          "usd": 3084
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -80,10 +146,15 @@
       "marca": "North",
       "modelo": "Pulse",
       "anio": 2025,
-      "usd": 2274,
+      "usd": 2527,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PULSE_1748X2300PX.png?v=1740999776&width=700",
       "sizes": "4 a 12 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "11M m²",
+          "usd": 2527
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -114,10 +185,19 @@
       "marca": "North",
       "modelo": "Carve",
       "anio": 2025,
-      "usd": 1660,
+      "usd": 1833,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_CARVE_1748X2300PX.png?v=1755160383&width=700",
       "sizes": "5 a 12 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "8mtrs m²",
+          "usd": 1833
+        },
+        {
+          "talle": "9mtrs m²",
+          "usd": 1844
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -148,10 +228,27 @@
       "marca": "North",
       "modelo": "Code Zero",
       "anio": 2023,
-      "usd": 760,
+      "usd": 844,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_CODE-ZERO_1748X2300PX.png?v=1741001583&width=700",
       "sizes": "15 / 17 / 19 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "5mts m²",
+          "usd": 844
+        },
+        {
+          "talle": "7mts m²",
+          "usd": 844
+        },
+        {
+          "talle": "9mts m²",
+          "usd": 844
+        },
+        {
+          "talle": "11mts m²",
+          "usd": 844
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -182,10 +279,15 @@
       "marca": "North",
       "modelo": "Pioneer (trainer)",
       "anio": 2024,
-      "usd": 265,
+      "usd": 294,
       "img": "",
       "sizes": "1,5 / 2,5 m² (entrenamiento)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "2 m²",
+          "usd": 294
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -217,10 +319,27 @@
       "marca": "North",
       "modelo": "Mode Pro",
       "anio": 2025,
-      "usd": 1079,
+      "usd": 1199,
       "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250006_100_01_9cfc6ce5-b82c-4a40-9c6c-8dd3236f5054.png?v=1773242228&width=700",
       "sizes": "2,5 a 7 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "3.5 m²",
+          "usd": 1199
+        },
+        {
+          "talle": "4.2 m²",
+          "usd": 1199
+        },
+        {
+          "talle": "4.8 m²",
+          "usd": 1199
+        },
+        {
+          "talle": "5.5 m²",
+          "usd": 1199
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -254,10 +373,27 @@
       "marca": "North",
       "modelo": "Nova Pro",
       "anio": 2025,
-      "usd": 999,
+      "usd": 1110,
       "img": "https://northactionsports.com/cdn/shop/files/product_image_85014240008_100_01_73dd02b0-c16e-48c9-8c4e-2d1d040c20ed.png?v=1773245591&width=700",
       "sizes": "3 a 6,5 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "3.5 m²",
+          "usd": 1110
+        },
+        {
+          "talle": "4.2 m²",
+          "usd": 1110
+        },
+        {
+          "talle": "4.8 m²",
+          "usd": 1110
+        },
+        {
+          "talle": "5.4 m²",
+          "usd": 1110
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -287,10 +423,19 @@
       "marca": "North",
       "modelo": "Mode Ultra",
       "anio": 2025,
-      "usd": 1379,
+      "usd": 1532,
       "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250020_810_01.png?v=1770905791&width=700",
       "sizes": "2,5 a 7 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "4.8 m²",
+          "usd": 1532
+        },
+        {
+          "talle": "5.4 m²",
+          "usd": 1532
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -324,10 +469,23 @@
       "marca": "North",
       "modelo": "Nova",
       "anio": 2025,
-      "usd": 1306,
+      "usd": 1451,
       "img": "",
       "sizes": "3 a 6,5 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "3.5 m²",
+          "usd": 1451
+        },
+        {
+          "talle": "4.2 m²",
+          "usd": 1523
+        },
+        {
+          "talle": "4.8 m²",
+          "usd": 1584
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -357,10 +515,15 @@
       "marca": "North",
       "modelo": "Loft Pro",
       "anio": 2025,
-      "usd": 1422,
+      "usd": 1580,
       "img": "",
       "sizes": "2,5 a 5,5 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "6 m²",
+          "usd": 1580
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -390,10 +553,23 @@
       "marca": "North",
       "modelo": "Ranger Parawing",
       "anio": 2025,
-      "usd": 797,
+      "usd": 886,
       "img": "",
       "sizes": "2 a 5 m² (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "3.2 m²",
+          "usd": 886
+        },
+        {
+          "talle": "4.2 m²",
+          "usd": 953
+        },
+        {
+          "talle": "5.2 m²",
+          "usd": 1020
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -427,10 +603,23 @@
       "marca": "North",
       "modelo": "Atmos TT",
       "anio": 2026,
-      "usd": 1033,
+      "usd": 967,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS_1748X2300PX.png?v=1755161455&width=700",
       "sizes": "135 a 144 cm (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "136 cm",
+          "usd": 1148
+        },
+        {
+          "talle": "141 cm",
+          "usd": 1148
+        },
+        {
+          "talle": "144 cm",
+          "usd": 967
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -461,10 +650,27 @@
       "marca": "North",
       "modelo": "Atmos Pro TT",
       "anio": 2026,
-      "usd": 1262,
+      "usd": 1402,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS-PRO_1748X2300PX.png?v=1755161408&width=700",
       "sizes": "135 a 144 cm (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "136 cm",
+          "usd": 1632
+        },
+        {
+          "talle": "138 cm",
+          "usd": 1632
+        },
+        {
+          "talle": "141 cm",
+          "usd": 1632
+        },
+        {
+          "talle": "144 cm",
+          "usd": 1402
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -499,10 +705,23 @@
       "marca": "North",
       "modelo": "Astra TT",
       "anio": 2026,
-      "usd": 979,
+      "usd": 1088,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ASTRA_1748X2300PX.png?v=1755161473&width=700",
       "sizes": "134 a 142 cm (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "132 cm",
+          "usd": 1088
+        },
+        {
+          "talle": "135 cm",
+          "usd": 1088
+        },
+        {
+          "talle": "139 cm",
+          "usd": 1088
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -533,10 +752,27 @@
       "marca": "North",
       "modelo": "Prime TT Board",
       "anio": 2025,
-      "usd": 846,
+      "usd": 940,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PRIME_1748X2300_1e07d6e0-d415-4a3e-9f59-c1211c517fb7.png?v=1773145681&width=700",
       "sizes": "138 a 144 cm (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "136 cm",
+          "usd": 940
+        },
+        {
+          "talle": "138 cm",
+          "usd": 940
+        },
+        {
+          "talle": "141 cm",
+          "usd": 940
+        },
+        {
+          "talle": "144 cm",
+          "usd": 940
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -567,10 +803,15 @@
       "marca": "North",
       "modelo": "Flare TT",
       "anio": 2025,
-      "usd": 943,
+      "usd": 1047,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_FLARE_1748X2300PX.png?v=1741000008&width=700",
       "sizes": "137 a 143 cm (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "143 cm",
+          "usd": 1047
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -601,10 +842,15 @@
       "marca": "North",
       "modelo": "Cross Pro Surfboard",
       "anio": 2025,
-      "usd": 1383,
+      "usd": 1537,
       "img": "",
       "sizes": "5'2\" a 6'2\" (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "5 3",
+          "usd": 1537
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -634,10 +880,15 @@
       "marca": "North",
       "modelo": "Navigator Control System",
       "anio": 2025,
-      "usd": 903,
+      "usd": 1003,
       "img": "",
       "sizes": "Líneas 22/24 m · S/M (consultá)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "38 43",
+          "usd": 1003
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -668,10 +919,19 @@
       "marca": "Mystic",
       "modelo": "Majestic Waist",
       "anio": 2025,
-      "usd": 484,
+      "usd": 538,
       "img": "",
       "sizes": "XS a XL (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "M",
+          "usd": 538
+        },
+        {
+          "talle": "L",
+          "usd": 538
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -705,10 +965,27 @@
       "marca": "Mystic",
       "modelo": "Aviator (asiento)",
       "anio": 2025,
-      "usd": 261,
+      "usd": 290,
       "img": "",
       "sizes": "XS a XL (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "S",
+          "usd": 290
+        },
+        {
+          "talle": "M",
+          "usd": 290
+        },
+        {
+          "talle": "L",
+          "usd": 290
+        },
+        {
+          "talle": "XL",
+          "usd": 290
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
@@ -738,10 +1015,23 @@
       "marca": "Mystic",
       "modelo": "Stealth Waist",
       "anio": 2025,
-      "usd": 770,
+      "usd": 855,
       "img": "",
       "sizes": "XS a XL (consultá talle)",
-      "variantes": [],
+      "variantes": [
+        {
+          "talle": "Xs",
+          "usd": 855
+        },
+        {
+          "talle": "S",
+          "usd": 855
+        },
+        {
+          "talle": "M",
+          "usd": 855
+        }
+      ],
       "specs": [
         {
           "label": "Medidas",
