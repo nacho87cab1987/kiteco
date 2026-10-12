@@ -1,5 +1,13 @@
 {
   "dolar": 1485,
+  "categorias": [
+    "Kites",
+    "Wings",
+    "Tablas",
+    "Barras",
+    "Arneses",
+    "Usados"
+  ],
   "productos": [
     {
       "id": "orbit-2026",
@@ -62,6 +70,74 @@
         "Saltos altos con mucho hangtime",
         "Estable y predecible",
         "Ideal para freeride y big air"
+      ]
+    },
+    {
+      "id": "orbit-2027",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Orbit",
+      "anio": 2027,
+      "usd": 2311,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700",
+      "sizes": "6 a 14 m² (consultá talle)",
+      "variantes": [
+        {
+          "talle": "6m m²",
+          "usd": 2311
+        },
+        {
+          "talle": "7m m²",
+          "usd": 2419
+        },
+        {
+          "talle": "8m m²",
+          "usd": 2527
+        },
+        {
+          "talle": "9m m²",
+          "usd": 2633
+        },
+        {
+          "talle": "10m m²",
+          "usd": 2829
+        },
+        {
+          "talle": "11m m²",
+          "usd": 2876
+        },
+        {
+          "talle": "12m m²",
+          "usd": 2957
+        }
+      ],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "6 a 14 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Big Air"
+        },
+        {
+          "label": "Construcción",
+          "value": "5 struts · Airframe N-Max2"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolso",
+        "Kit de reparación",
+        "Bolsa de arena"
+      ],
+      "desc": "El kite insignia de North para freeride y big air, en su versión 2027: más eficiente, saltos más altos y dirección más precisa, con la estabilidad de siempre.",
+      "descLarga": "El Orbit 2027 es el kite de 5 struts insignia de North para freeride y big air, ahora más eficiente y con una respuesta más rápida. Mantiene el rango de viento amplio, el buen upwind y la estabilidad de siempre, pero con un perfil y una brida refinados que lo hacen más juguetón: saltos más altos, vuelo más suave y dirección más precisa. Su nuevo airframe N-Max2 permite un borde de ataque más fino y liviano para girar más rápido, y la mayor relación de aspecto mejora el lift y el hangtime. Incluye bolso, kit de reparación y bolsa de arena.",
+      "feats": [
+        "Saltos altos con mucho hangtime",
+        "Más eficiente y de respuesta más rápida (2027)",
+        "Estable y predecible, rango de viento amplio"
       ]
     },
     {
