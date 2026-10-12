@@ -1,0 +1,772 @@
+{
+  "dolar": 1485,
+  "productos": [
+    {
+      "id": "orbit-2026",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Orbit",
+      "anio": 2026,
+      "usd": 1872,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700",
+      "sizes": "6 a 14 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "5 a 14 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Big Air"
+        },
+        {
+          "label": "Construcción",
+          "value": "5 struts (5 costillas)"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolsa de transporte / mochila",
+        "Kit de reparación"
+      ],
+      "desc": "El kite ícono de North para freeride y big air. Mucho hangtime, saltos enormes y un comportamiento estable y predecible que inspira confianza en cada sesión.",
+      "descLarga": "El Orbit es el kite ícono de North y la referencia para freeride y big air. Te impulsa hacia arriba muy rápido y con un hangtime largo que estira cada salto, manteniéndose estable y predecible incluso con viento racheado. Su construcción de 5 struts le da rigidez y un rango de viento amplio, así que rinde parejo de punta a punta. Ideal si buscás saltar alto y volar con confianza.",
+      "feats": [
+        "Saltos altos con mucho hangtime",
+        "Estable y predecible",
+        "Ideal para freeride y big air"
+      ]
+    },
+    {
+      "id": "reach-2025",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Reach",
+      "anio": 2025,
+      "usd": 1806,
+      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_REACH-TIRQUASE_1748X2300_c6a9f751-8c98-4e59-853a-4dd177e1094d.png?v=1773147848&width=700",
+      "sizes": "7 a 15 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "7 a 15 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride all-round / Progresión"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolsa de transporte / mochila",
+        "Kit de reparación"
+      ],
+      "desc": "Freeride all-round, fácil y noble. Relanza sin problemas, gira parejo y rinde en un amplio rango de viento: el kite perfecto para progresar.",
+      "descLarga": "El Reach es el freeride noble de North: fácil de volar, relanza sin drama y perdona los errores, por eso es ideal para aprender y progresar. Tiene un rango de viento generoso y un giro parejo que lo hace cómodo sesión tras sesión. Una cometa todoterreno para sumar horas de agua con tranquilidad.",
+      "feats": [
+        "Fácil de volar",
+        "Gran rango de viento",
+        "Ideal para progresar"
+      ]
+    },
+    {
+      "id": "pulse-2025",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Pulse",
+      "anio": 2025,
+      "usd": 2274,
+      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PULSE_1748X2300PX.png?v=1740999776&width=700",
+      "sizes": "4 a 12 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "4 a 12 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Freestyle (alto rendimiento)"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolsa de transporte / mochila",
+        "Kit de reparación"
+      ],
+      "desc": "Alto rendimiento para freeride y freestyle. Rápido, directo y con pop explosivo para quienes buscan llevar su nivel más arriba.",
+      "descLarga": "El Pulse es el freeride de alto rendimiento de North, pensado para quienes ya tienen base y quieren más. Respuesta rápida y directa, con un pop explosivo que pide freestyle y saltos potentes. Si buscás llevar tu nivel un escalón más arriba, esta es la cometa.",
+      "feats": [
+        "Respuesta rápida y directa",
+        "Pop explosivo",
+        "Freeride y freestyle de nivel"
+      ]
+    },
+    {
+      "id": "carve-2025",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Carve",
+      "anio": 2025,
+      "usd": 1660,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_CARVE_1748X2300PX.png?v=1755160383&width=700",
+      "sizes": "5 a 12 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "5 a 12 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Olas / Strapless / Surf"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolsa de transporte / mochila",
+        "Kit de reparación"
+      ],
+      "desc": "El kite de olas y strapless de North. Deriva impecable, giros rápidos y mucha maniobrabilidad para surfear con o sin straps.",
+      "descLarga": "El Carve es la cometa de olas y strapless de North. Deriva impecable, giros rápidos y mucha maniobrabilidad para surfear la ola con o sin straps. Pensada para quien disfruta el estilo surf y quiere una cometa que acompañe cada maniobra.",
+      "feats": [
+        "Pensado para olas y strapless",
+        "Deriva y giros rápidos",
+        "Súper maniobrable"
+      ]
+    },
+    {
+      "id": "code-zero-2023",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Code Zero",
+      "anio": 2023,
+      "usd": 760,
+      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_CODE-ZERO_1748X2300PX.png?v=1741001583&width=700",
+      "sizes": "15 / 17 / 19 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "15 / 17 / 19 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Viento liviano / Foil"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolsa de transporte / mochila",
+        "Kit de reparación"
+      ],
+      "desc": "Kite de viento liviano. Despega y se sostiene con poca brisa: ideal para sumar días al agua y para volar con foil.",
+      "descLarga": "El Code Zero es la solución de North para los días de poco viento. Despega y se sostiene con muy poca brisa, así que suma jornadas al agua que con otra cometa te perderías. Es la opción ideal para volar con foil y exprimir el viento liviano.",
+      "feats": [
+        "Excelente en viento liviano",
+        "Ideal para foil",
+        "Suma días de navegación"
+      ]
+    },
+    {
+      "id": "pioneer-2024",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Pioneer (trainer)",
+      "anio": 2024,
+      "usd": 265,
+      "img": "",
+      "sizes": "1,5 / 2,5 m² (entrenamiento)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "1,5 / 2,5 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Trainer / Aprendizaje en tierra"
+        }
+      ],
+      "incluye": [
+        "Cometa de entrenamiento",
+        "Líneas",
+        "Barra / manija de control",
+        "Manual"
+      ],
+      "desc": "Kite de entrenamiento para dar tus primeros pasos en tierra. Seguro y fácil: te enseña a manejar la potencia del viento antes de ir al agua.",
+      "descLarga": "El Pioneer es la cometa de entrenamiento para dar tus primeros pasos en tierra. Segura y muy fácil de manejar, te enseña a leer la ventana de viento y a controlar la potencia antes de pasar al agua. El primer paso ideal para arrancar en el kite con confianza.",
+      "feats": [
+        "Para aprender en tierra",
+        "Seguro y fácil de usar",
+        "Tus primeros pasos en kite"
+      ]
+    },
+    {
+      "id": "mode-pro-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Mode Pro",
+      "anio": 2025,
+      "usd": 1079,
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250006_100_01_9cfc6ce5-b82c-4a40-9c6c-8dd3236f5054.png?v=1773242228&width=700",
+      "sizes": "2,5 a 7 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "2,5 a 7 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Olas"
+        },
+        {
+          "label": "Construcción",
+          "value": "Wing de alto rendimiento"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "Wing de alto rendimiento, liviana y con un feeling directo. Buen low-end y mucha estabilidad para freeride y olas.",
+      "descLarga": "La Mode Pro es la wing de alto rendimiento de North: liviana, con un feeling directo y mucha estabilidad. Buen low-end para arrancar a planear temprano y un manejo preciso que rinde tanto en freeride como en olas.",
+      "feats": [
+        "Liviana y de respuesta directa",
+        "Buen low-end",
+        "Freeride y olas"
+      ]
+    },
+    {
+      "id": "nova-pro-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Nova Pro",
+      "anio": 2025,
+      "usd": 999,
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014240008_100_01_73dd02b0-c16e-48c9-8c4e-2d1d040c20ed.png?v=1773245591&width=700",
+      "sizes": "3 a 6,5 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "3 a 6,5 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride premium"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "La wing premium freeride de North. Eficiente, estable y con un manejo intuitivo que rinde en todos los niveles.",
+      "descLarga": "La Nova Pro es la wing premium freeride de North. Eficiente, estable y con un manejo intuitivo que la hace cómoda en todos los niveles, desde quien progresa hasta el rider exigente. Una vela equilibrada para disfrutar cada sesión.",
+      "feats": [
+        "Eficiente y estable",
+        "Manejo intuitivo",
+        "Premium freeride"
+      ]
+    },
+    {
+      "id": "mode-ultra-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Mode Ultra",
+      "anio": 2025,
+      "usd": 1379,
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250020_810_01.png?v=1770905791&width=700",
+      "sizes": "2,5 a 7 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "2,5 a 7 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Olas"
+        },
+        {
+          "label": "Construcción",
+          "value": "Ultraliviana (tope de gama)"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "Tope de gama ultraliviana. Máxima eficiencia y planeo para quienes buscan lo mejor en cada gramo.",
+      "descLarga": "La Mode Ultra es el tope de gama ultraliviano de North. Cada gramo está pensado para maximizar la eficiencia y el planeo, ideal para quienes buscan lo mejor en performance y poco viento. Reactiva y precisa en todo momento.",
+      "feats": [
+        "Ultraliviana",
+        "Máxima eficiencia",
+        "Tope de gama"
+      ]
+    },
+    {
+      "id": "nova-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Nova",
+      "anio": 2025,
+      "usd": 1306,
+      "img": "",
+      "sizes": "3 a 6,5 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "3 a 6,5 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "All-round / Aprendizaje"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "La wing all-round para aprender y progresar. Estable, noble y fácil: te acompaña desde el primer día sobre el agua.",
+      "descLarga": "La Nova es la wing all-round de North para aprender y progresar. Estable, noble y fácil de manejar, te acompaña desde el primer día sobre el agua y te da confianza para seguir sumando. La opción ideal para empezar en el wing.",
+      "feats": [
+        "Estable y noble",
+        "Fácil de aprender",
+        "All-round para progresar"
+      ]
+    },
+    {
+      "id": "loft-pro-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Loft Pro",
+      "anio": 2025,
+      "usd": 1422,
+      "img": "",
+      "sizes": "2,5 a 5,5 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "2,5 a 5,5 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Olas / Freestyle"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "Wing orientada a olas y freestyle. Compacta, reactiva y con buen drift para soltarla en la ola.",
+      "descLarga": "La Loft Pro está orientada a olas y freestyle. Compacta, reactiva y con buen drift para soltarla en la ola y dedicarte a surfear. Para riders que buscan agilidad y respuesta inmediata.",
+      "feats": [
+        "Para olas y freestyle",
+        "Compacta y reactiva",
+        "Buen drift"
+      ]
+    },
+    {
+      "id": "ranger-parawing-2025",
+      "cat": "Wings",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Ranger Parawing",
+      "anio": 2025,
+      "usd": 797,
+      "img": "",
+      "sizes": "2 a 5 m² (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "2 a 5 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Downwind / Foil"
+        },
+        {
+          "label": "Construcción",
+          "value": "Parawing (sin botalón)"
+        }
+      ],
+      "incluye": [
+        "Parawing",
+        "Bolsa de transporte"
+      ],
+      "desc": "La parawing de North: una vela sin botalón, compacta y muy fácil de guardar, ideal para downwind y foil.",
+      "descLarga": "La Ranger es la parawing de North: una vela sin botalón, súper compacta y muy fácil de guardar. Pensada para downwind y foil, se infla y se larga rápido, y entra en una mochila chica para ir a buscar viento donde sea.",
+      "feats": [
+        "Sin botalón, súper compacta",
+        "Ideal para downwind y foil",
+        "Fácil de transportar"
+      ]
+    },
+    {
+      "id": "atmos-tt-2026",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Atmos TT",
+      "anio": 2026,
+      "usd": 1033,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS_1748X2300PX.png?v=1755161455&width=700",
+      "sizes": "135 a 144 cm (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "135 a 144 cm"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Todo terreno"
+        }
+      ],
+      "incluye": [
+        "Tabla",
+        "Quillas y tornillería",
+        "Pads y straps (footstraps)"
+      ],
+      "desc": "Twintip freeride todoterreno: cómoda, con buen pop y agarre. La tabla ideal para navegar todo el día y empezar a saltar.",
+      "descLarga": "La Atmos es una twintip freeride todoterreno: cómoda, con buen pop y mucho agarre. Es la tabla ideal para navegar todo el día y empezar a saltar, perdonadora pero con respuesta cuando la exigís.",
+      "feats": [
+        "Freeride versátil",
+        "Cómoda y con buen pop",
+        "Para todo el día sobre el agua"
+      ]
+    },
+    {
+      "id": "atmos-pro-tt-2026",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Atmos Pro TT",
+      "anio": 2026,
+      "usd": 1262,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS-PRO_1748X2300PX.png?v=1755161408&width=700",
+      "sizes": "135 a 144 cm (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "135 a 144 cm"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride (alto rendimiento)"
+        },
+        {
+          "label": "Construcción",
+          "value": "Carbono"
+        }
+      ],
+      "incluye": [
+        "Tabla",
+        "Quillas y tornillería",
+        "Pads y straps (footstraps)"
+      ],
+      "desc": "La Atmos en versión de alto rendimiento, con construcción de carbono: más liviana y reactiva para exigirle de verdad.",
+      "descLarga": "La Atmos Pro lleva la Atmos a la versión de alto rendimiento, con construcción de carbono: más liviana, reactiva y con un pop más explosivo. Para riders que quieren exigirle de verdad sin perder confort.",
+      "feats": [
+        "Construcción de carbono",
+        "Liviana y reactiva",
+        "Alto rendimiento"
+      ]
+    },
+    {
+      "id": "astra-tt-2026",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Astra TT",
+      "anio": 2026,
+      "usd": 979,
+      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ASTRA_1748X2300PX.png?v=1755161473&width=700",
+      "sizes": "134 a 142 cm (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "134 a 142 cm"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Iniciación / Progresión"
+        }
+      ],
+      "incluye": [
+        "Tabla",
+        "Quillas y tornillería",
+        "Pads y straps (footstraps)"
+      ],
+      "desc": "Twintip noble y estable, ideal para arrancar y progresar. Muy perdonadora y fácil de llevar.",
+      "descLarga": "La Astra es una twintip noble y estable, ideal para arrancar y progresar. Muy perdonadora y fácil de llevar, te da la base perfecta para ganar confianza sobre el agua.",
+      "feats": [
+        "Estable y perdonadora",
+        "Ideal para aprender",
+        "Fácil de manejar"
+      ]
+    },
+    {
+      "id": "prime-tt",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Prime TT Board",
+      "anio": 2025,
+      "usd": 846,
+      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PRIME_1748X2300_1e07d6e0-d415-4a3e-9f59-c1211c517fb7.png?v=1773145681&width=700",
+      "sizes": "138 a 144 cm (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "138 a 144 cm"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Iniciación"
+        }
+      ],
+      "incluye": [
+        "Tabla",
+        "Quillas y tornillería",
+        "Pads y straps (footstraps)"
+      ],
+      "desc": "Tabla de iniciación accesible, pensada para tus primeros días sobre el agua sin gastar de más.",
+      "descLarga": "La Prime es la tabla de iniciación accesible de North, pensada para tus primeros días sobre el agua sin gastar de más. Estable y noble, con muy buena relación precio-calidad para empezar.",
+      "feats": [
+        "Accesible para empezar",
+        "Estable y noble",
+        "Buena relación precio-calidad"
+      ]
+    },
+    {
+      "id": "flare-tt-2025",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Flare TT",
+      "anio": 2025,
+      "usd": 943,
+      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_FLARE_1748X2300PX.png?v=1741000008&width=700",
+      "sizes": "137 a 143 cm (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "137 a 143 cm"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freestyle / Wakestyle"
+        }
+      ],
+      "incluye": [
+        "Tabla",
+        "Quillas y tornillería",
+        "Pads y straps (footstraps)"
+      ],
+      "desc": "Twintip de freestyle y wakestyle: pop explosivo y aguante para aprender trucos y saltar fuerte.",
+      "descLarga": "La Flare es la twintip de freestyle y wakestyle de North: pop explosivo y mucho aguante para aprender trucos y saltar fuerte. Para quien quiere meterle al freestyle con una tabla que banca.",
+      "feats": [
+        "Pop explosivo",
+        "Aguante para trucos",
+        "Freestyle / wakestyle"
+      ]
+    },
+    {
+      "id": "cross-pro-surf-2025",
+      "cat": "Tablas",
+      "tipo": "tabla",
+      "marca": "North",
+      "modelo": "Cross Pro Surfboard",
+      "anio": 2025,
+      "usd": 1383,
+      "img": "",
+      "sizes": "5'2\" a 6'2\" (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "5'2\" a 6'2\""
+        },
+        {
+          "label": "Disciplina",
+          "value": "Olas / Strapless"
+        }
+      ],
+      "incluye": [
+        "Tabla de surf",
+        "Set de quillas (thruster)"
+      ],
+      "desc": "Tabla de surf (strapless) para olas: liviana, reactiva y con buena deriva para surfear con el kite.",
+      "descLarga": "La Cross Pro es la tabla de surf (strapless) de North para olas. Liviana, reactiva y con buena deriva para surfear con el kite con o sin straps. Pensada para quien disfruta el estilo surf.",
+      "feats": [
+        "Para olas y strapless",
+        "Liviana y reactiva",
+        "Buena deriva"
+      ]
+    },
+    {
+      "id": "navigator-2025",
+      "cat": "Barras",
+      "tipo": "barra",
+      "marca": "North",
+      "modelo": "Navigator Control System",
+      "anio": 2025,
+      "usd": 903,
+      "img": "",
+      "sizes": "Líneas 22/24 m · S/M (consultá)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "Líneas 22/24 m · S/M"
+        },
+        {
+          "label": "Uso",
+          "value": "Sistema de control para kites North"
+        }
+      ],
+      "incluye": [
+        "Barra de control",
+        "Líneas",
+        "Leash de seguridad"
+      ],
+      "desc": "La barra de control de North. Precisa, cómoda y con un sistema de seguridad confiable; compatible con la línea de kites North.",
+      "descLarga": "La Navigator es la barra de control de North: precisa, cómoda y con un sistema de seguridad confiable. Compatible con la línea de kites North, te da un manejo limpio y un quick-release simple de accionar.",
+      "feats": [
+        "Precisa y cómoda",
+        "Sistema de seguridad confiable",
+        "Compatible con kites North"
+      ]
+    },
+    {
+      "id": "majestic-waist-2025",
+      "cat": "Arneses",
+      "tipo": "arnes",
+      "marca": "Mystic",
+      "modelo": "Majestic Waist",
+      "anio": 2025,
+      "usd": 484,
+      "img": "",
+      "sizes": "XS a XL (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "XS a XL"
+        },
+        {
+          "label": "Tipo",
+          "value": "Arnés de cintura"
+        },
+        {
+          "label": "Gama",
+          "value": "Alta"
+        }
+      ],
+      "incluye": [
+        "Arnés",
+        "Barra spreader con gancho"
+      ],
+      "desc": "Arnés de cintura de gama alta: firme donde tiene que serlo y cómodo, con buen soporte lumbar para sesiones largas.",
+      "descLarga": "El Majestic es el arnés de cintura de gama alta de Mystic: firme donde tiene que serlo y cómodo para las sesiones largas, con buen soporte lumbar. Un arnés que te sostiene sin moverse y reparte bien la tracción.",
+      "feats": [
+        "Soporte lumbar firme",
+        "Cómodo en sesiones largas",
+        "Gama alta"
+      ]
+    },
+    {
+      "id": "aviator-seat-2025",
+      "cat": "Arneses",
+      "tipo": "arnes",
+      "marca": "Mystic",
+      "modelo": "Aviator (asiento)",
+      "anio": 2025,
+      "usd": 261,
+      "img": "",
+      "sizes": "XS a XL (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "XS a XL"
+        },
+        {
+          "label": "Tipo",
+          "value": "Arnés de asiento"
+        }
+      ],
+      "incluye": [
+        "Arnés",
+        "Barra spreader con gancho"
+      ],
+      "desc": "Arnés de asiento ideal para principiantes y para foil: reparte la tracción hacia abajo y evita que se suba.",
+      "descLarga": "El Aviator es un arnés de asiento ideal para principiantes y para foil: reparte la tracción hacia abajo y evita que se te suba. Cómodo y seguro, te deja concentrarte en aprender sin pelear con el arnés.",
+      "feats": [
+        "Ideal para aprender",
+        "No se sube",
+        "Cómodo para foil"
+      ]
+    },
+    {
+      "id": "stealth-waist-2025",
+      "cat": "Arneses",
+      "tipo": "arnes",
+      "marca": "Mystic",
+      "modelo": "Stealth Waist",
+      "anio": 2025,
+      "usd": 770,
+      "img": "",
+      "sizes": "XS a XL (consultá talle)",
+      "variantes": [],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "XS a XL"
+        },
+        {
+          "label": "Tipo",
+          "value": "Arnés de cintura"
+        },
+        {
+          "label": "Construcción",
+          "value": "Refuerzo de carbono"
+        }
+      ],
+      "incluye": [
+        "Arnés",
+        "Barra spreader con gancho"
+      ],
+      "desc": "Arnés de cintura premium con refuerzo de carbono: ultra firme, liviano y anatómico para quienes exigen lo máximo.",
+      "descLarga": "El Stealth es el arnés de cintura premium de Mystic, con refuerzo de carbono: ultra firme, liviano y anatómico. Para riders que exigen el máximo soporte sin sumar peso.",
+      "feats": [
+        "Refuerzo de carbono",
+        "Ultra firme y liviano",
+        "Premium"
+      ]
+    }
+  ]
+}

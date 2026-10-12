@@ -1,0 +1,118 @@
+{
+  "productosPath": "productos.json",
+  "dolarUrl": "https://santatabla.com/shop/tienda-de-Kite-86",
+  "fallbackDolar": 1485,
+  "_comentario": "Links de Santa Tabla por producto. Cambian cada año (ej. Orbit 2027 = producto-8442). Catálogo completo (22/22).",
+  "productos": [
+    {
+      "id": "orbit-2026",
+      "url": "https://santatabla.com/shop/producto-7840-VELAS-VELASDEKITE-OrbitKite",
+      "unit": "m²"
+    },
+    {
+      "id": "reach-2025",
+      "url": "https://santatabla.com/shop/producto-6860-VELAS-VELASDEKITE-REACH",
+      "unit": "m²"
+    },
+    {
+      "id": "pulse-2025",
+      "url": "https://santatabla.com/shop/producto-7141-VELAS-VELASDEKITE-PULSE",
+      "unit": "m²"
+    },
+    {
+      "id": "carve-2025",
+      "url": "https://santatabla.com/shop/producto-6398-VELAS-VELASDEKITE-CARVE",
+      "unit": "m²"
+    },
+    {
+      "id": "code-zero-2023",
+      "url": "https://santatabla.com/shop/producto-5046-VELAS-VELASDEKITE-CODEZEROKITE",
+      "unit": "m²"
+    },
+    {
+      "id": "pioneer-2024",
+      "url": "https://santatabla.com/shop/producto-6853-VELAS-VELASDEKITE-PIONEERKITE",
+      "unit": "m²"
+    },
+    {
+      "id": "mode-pro-2025",
+      "url": "https://santatabla.com/shop/producto-6818-VELAS-VELASDEWING-MODEPROWING",
+      "unit": "m²"
+    },
+    {
+      "id": "nova-pro-2025",
+      "url": "https://santatabla.com/shop/producto-6822-VELAS-VELASDEWING-NOVAPROWING",
+      "unit": "m²"
+    },
+    {
+      "id": "mode-ultra-2025",
+      "url": "https://santatabla.com/shop/producto-7769-VELAS-VELASDEWING-ModeUltraWing",
+      "unit": "m²"
+    },
+    {
+      "id": "nova-2025",
+      "url": "https://santatabla.com/shop/producto-6826-VELAS-VELASDEWING-NOVAWING",
+      "unit": "m²"
+    },
+    {
+      "id": "loft-pro-2025",
+      "url": "https://santatabla.com/shop/producto-7121-VELAS-VELASDEWING-LOFTPROWING",
+      "unit": "m²"
+    },
+    {
+      "id": "ranger-parawing-2025",
+      "url": "https://santatabla.com/shop/producto-7582-VELAS-VELASDEWING-RangerParawing",
+      "unit": "m²"
+    },
+    {
+      "id": "atmos-tt-2026",
+      "url": "https://santatabla.com/shop/producto-7641-TABLAS-TABLASDEKITE-ATMOSTT",
+      "unit": "cm"
+    },
+    {
+      "id": "atmos-pro-tt-2026",
+      "url": "https://santatabla.com/shop/producto-7673-TABLAS-TABLASDEKITE-ATMOSPROTT",
+      "unit": "cm"
+    },
+    {
+      "id": "astra-tt-2026",
+      "url": "https://santatabla.com/shop/producto-7640-TABLAS-TABLASDEKITE-ASTRATT",
+      "unit": "cm"
+    },
+    {
+      "id": "prime-tt",
+      "url": "https://santatabla.com/shop/producto-8040-TABLAS-TABLASDEKITE-PrimeTTBoard",
+      "unit": "cm"
+    },
+    {
+      "id": "flare-tt-2025",
+      "url": "https://santatabla.com/shop/producto-6793-TABLAS-TABLASDEKITE-FLARETT",
+      "unit": "cm"
+    },
+    {
+      "id": "cross-pro-surf-2025",
+      "url": "https://santatabla.com/shop/producto-6399-TABLAS-TABLASDEKITE-CROSSPROSURFBOARD",
+      "unit": ""
+    },
+    {
+      "id": "majestic-waist-2025",
+      "url": "https://santatabla.com/shop/producto-7098-ARNESES-ARNESESDEKITE-MAJESTICWAISTHARNESS",
+      "unit": ""
+    },
+    {
+      "id": "aviator-seat-2025",
+      "url": "https://santatabla.com/shop/producto-6781-ARNESES-ARNESESDEKITE-ARNÉSDEASIENTOAVIATOR",
+      "unit": ""
+    },
+    {
+      "id": "stealth-waist-2025",
+      "url": "https://santatabla.com/shop/producto-7616-ARNESES-ARNESESDEKITE-StealthWaistHarnessWomen",
+      "unit": ""
+    },
+    {
+      "id": "navigator-2025",
+      "url": "https://santatabla.com/shop/producto-7143-BARRAS-5LÍNEAS-NAVIGATORCONTROLSYSTEMFREESTYLE",
+      "unit": ""
+    }
+  ]
+}
