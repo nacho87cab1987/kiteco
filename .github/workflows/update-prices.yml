@@ -24,6 +24,13 @@ jobs:
       - name: Instalar dependencias
         run: npm install puppeteer
 
+      # Partimos del productos.json REAL que está online (el que maneja el panel),
+      # no de la copia del repo. Así el robot NO pisa productos ni categorías que
+      # cargaste desde el panel: sólo toca los precios. Si no lo puede bajar, el
+      # job falla acá y no se sube nada (el archivo online queda intacto).
+      - name: Bajar el productos.json ACTUAL de DonWeb
+        run: curl --fail --show-error --ssl-reqd -o productos.json -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" "ftp://${{ secrets.FTP_HOST }}:21/productos.json"
+
       - name: Leer precios de Santa Tabla y actualizar productos.json
         run: node scrape-santatabla.js
 
