@@ -27,11 +27,8 @@ jobs:
       - name: Leer precios de Santa Tabla y actualizar productos.json
         run: node scrape-santatabla.js
 
-      - name: Subir productos.json a DonWeb (FTP)
-        run: >
-          curl --fail --silent --show-error --ssl-reqd -T productos.json \
-            -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
-            "ftp://${{ secrets.FTP_HOST }}:21/${{ secrets.FTP_PATH }}/productos.json"
+      - name: Subir productos.json a DonWeb (FTP con TLS)
+        run: curl --fail --show-error --ssl-reqd -T productos.json -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" "ftp://${{ secrets.FTP_HOST }}:21/productos.json"
 
       - name: Guardar el cambio en el repo (historial de precios)
         run: |
@@ -40,4 +37,3 @@ jobs:
           git add productos.json
           git commit -m "Precios actualizados $(date +%F)" || echo "sin cambios"
           git push || echo "nada para pushear"
-
