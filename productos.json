@@ -10,6 +10,193 @@
   ],
   "productos": [
     {
+      "id": "nuevo-producto-2026-6",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-5",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-4",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-3",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-2",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Nuevo producto",
+      "anio": 2026,
+      "usd": 0,
+      "img": "",
+      "imgs": [],
+      "sizes": "",
+      "destacado": false,
+      "variantes": [],
+      "specs": [],
+      "incluye": [],
+      "desc": "",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "orbit-2027",
+      "cat": "Kites",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Orbit",
+      "anio": 2027,
+      "usd": 2311,
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85000270000_512_01.png?v=1784629020&width=750",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85000270000_512_01.png?v=1784629020&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85000270000_512_02.png?v=1784629020&width=750"
+      ],
+      "sizes": "6 a 14 m² (consultá talle)",
+      "destacado": false,
+      "variantes": [
+        {
+          "talle": "6m m²",
+          "usd": 2311
+        },
+        {
+          "talle": "7m m²",
+          "usd": 2419
+        },
+        {
+          "talle": "8m m²",
+          "usd": 2527
+        },
+        {
+          "talle": "9m m²",
+          "usd": 2633
+        },
+        {
+          "talle": "10m m²",
+          "usd": 2728
+        },
+        {
+          "talle": "11m m²",
+          "usd": 2876
+        },
+        {
+          "talle": "12m m²",
+          "usd": 2957
+        }
+      ],
+      "specs": [
+        {
+          "label": "Medidas",
+          "value": "6 a 14 m²"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Big Air"
+        },
+        {
+          "label": "Construcción",
+          "value": "5 struts · Airframe N-Max2"
+        }
+      ],
+      "incluye": [
+        "Kite",
+        "Bolso",
+        "Kit de reparación",
+        "Bolsa de arena"
+      ],
+      "desc": "El kite insignia de North para freeride y big air, en su versión 2027: más eficiente, saltos más altos y dirección más precisa, con la estabilidad de siempre.",
+      "descLarga": "El Orbit 2027 es el kite de 5 struts insignia de North para freeride y big air, ahora más eficiente y con una respuesta más rápida. Mantiene el rango de viento amplio, el buen upwind y la estabilidad de siempre, pero con un perfil y una brida refinados que lo hacen más juguetón: saltos más altos, vuelo más suave y dirección más precisa. Su nuevo airframe N-Max2 permite un borde de ataque más fino y liviano para girar más rápido, y la mayor relación de aspecto mejora el lift y el hangtime. Incluye bolso, kit de reparación y bolsa de arena.",
+      "feats": [
+        "Saltos altos con mucho hangtime",
+        "Más eficiente y de respuesta más rápida (2027)",
+        "Estable y predecible, rango de viento amplio"
+      ]
+    },
+    {
       "id": "orbit-2026",
       "cat": "Kites",
       "tipo": "kite",
@@ -18,7 +205,11 @@
       "anio": 2026,
       "usd": 2080,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700"
+      ],
       "sizes": "6 a 14 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "6 m²",
@@ -73,83 +264,21 @@
       ]
     },
     {
-      "id": "orbit-2027",
-      "cat": "Kites",
-      "tipo": "kite",
-      "marca": "North",
-      "modelo": "Orbit",
-      "anio": 2027,
-      "usd": 2311,
-      "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ORBIT_1748X2300PX.png?v=1755160338&width=700",
-      "sizes": "6 a 14 m² (consultá talle)",
-      "variantes": [
-        {
-          "talle": "6m m²",
-          "usd": 2311
-        },
-        {
-          "talle": "7m m²",
-          "usd": 2419
-        },
-        {
-          "talle": "8m m²",
-          "usd": 2527
-        },
-        {
-          "talle": "9m m²",
-          "usd": 2633
-        },
-        {
-          "talle": "10m m²",
-          "usd": 2829
-        },
-        {
-          "talle": "11m m²",
-          "usd": 2876
-        },
-        {
-          "talle": "12m m²",
-          "usd": 2957
-        }
-      ],
-      "specs": [
-        {
-          "label": "Medidas",
-          "value": "6 a 14 m²"
-        },
-        {
-          "label": "Disciplina",
-          "value": "Freeride / Big Air"
-        },
-        {
-          "label": "Construcción",
-          "value": "5 struts · Airframe N-Max2"
-        }
-      ],
-      "incluye": [
-        "Kite",
-        "Bolso",
-        "Kit de reparación",
-        "Bolsa de arena"
-      ],
-      "desc": "El kite insignia de North para freeride y big air, en su versión 2027: más eficiente, saltos más altos y dirección más precisa, con la estabilidad de siempre.",
-      "descLarga": "El Orbit 2027 es el kite de 5 struts insignia de North para freeride y big air, ahora más eficiente y con una respuesta más rápida. Mantiene el rango de viento amplio, el buen upwind y la estabilidad de siempre, pero con un perfil y una brida refinados que lo hacen más juguetón: saltos más altos, vuelo más suave y dirección más precisa. Su nuevo airframe N-Max2 permite un borde de ataque más fino y liviano para girar más rápido, y la mayor relación de aspecto mejora el lift y el hangtime. Incluye bolso, kit de reparación y bolsa de arena.",
-      "feats": [
-        "Saltos altos con mucho hangtime",
-        "Más eficiente y de respuesta más rápida (2027)",
-        "Estable y predecible, rango de viento amplio"
-      ]
-    },
-    {
       "id": "reach-2025",
       "cat": "Kites",
       "tipo": "kite",
       "marca": "North",
       "modelo": "Reach",
-      "anio": 2025,
+      "anio": 2026,
       "usd": 2007,
-      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_REACH-TIRQUASE_1748X2300_c6a9f751-8c98-4e59-853a-4dd177e1094d.png?v=1773147848&width=700",
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85000260004_512_01_d5afb9b0-a0ad-4856-9edc-6c1c15477663.png?v=1780655932&width=750",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85000260004_512_01_d5afb9b0-a0ad-4856-9edc-6c1c15477663.png?v=1780655932&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85000260004_512_02.png?v=1785750215&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85000260004_512_05.png?v=1785750216&width=750"
+      ],
       "sizes": "7 a 15 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "6m m²",
@@ -223,8 +352,13 @@
       "modelo": "Pulse",
       "anio": 2025,
       "usd": 2527,
-      "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PULSE_1748X2300PX.png?v=1740999776&width=700",
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85000250002_310_01.png?v=1785750205&width=1500",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85000250002_310_01.png?v=1785750205&width=1500",
+        "https://northactionsports.com/cdn/shop/files/product_image_85000250002_310_02.png?v=1785750204&width=1500"
+      ],
       "sizes": "4 a 12 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "11M m²",
@@ -263,7 +397,11 @@
       "anio": 2025,
       "usd": 1833,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_CARVE_1748X2300PX.png?v=1755160383&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_CARVE_1748X2300PX.png?v=1755160383&width=700"
+      ],
       "sizes": "5 a 12 m² (consultá talle)",
+      "destacado": true,
       "variantes": [
         {
           "talle": "8mtrs m²",
@@ -306,7 +444,11 @@
       "anio": 2023,
       "usd": 844,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_CODE-ZERO_1748X2300PX.png?v=1741001583&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_CODE-ZERO_1748X2300PX.png?v=1741001583&width=700"
+      ],
       "sizes": "15 / 17 / 19 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "5mts m²",
@@ -357,7 +499,9 @@
       "anio": 2024,
       "usd": 294,
       "img": "",
+      "imgs": [],
       "sizes": "1,5 / 2,5 m² (entrenamiento)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "2 m²",
@@ -396,8 +540,14 @@
       "modelo": "Mode Pro",
       "anio": 2025,
       "usd": 1199,
-      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250006_100_01_9cfc6ce5-b82c-4a40-9c6c-8dd3236f5054.png?v=1773242228&width=700",
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250008_100_01.png?v=1785748834&width=750",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85014250008_100_01.png?v=1785748834&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85014250008_100_02.png?v=1785748834&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85014250008_100_03.png?v=1785748834&width=750"
+      ],
       "sizes": "2,5 a 7 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "3.5 m²",
@@ -447,11 +597,16 @@
       "cat": "Wings",
       "tipo": "wing",
       "marca": "North",
-      "modelo": "Nova Pro",
+      "modelo": "Nova ",
       "anio": 2025,
       "usd": 1110,
-      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014240008_100_01_73dd02b0-c16e-48c9-8c4e-2d1d040c20ed.png?v=1773245591&width=700",
+      "img": "https://santatabla.com/shop/img/post/6826/Untitled%20design%20-%202025-04-09T154700.707.png",
+      "imgs": [
+        "https://santatabla.com/shop/img/post/6826/Untitled%20design%20-%202025-04-09T154700.707.png",
+        "https://santatabla.com/shop/img/post/6826/Untitled%20design%20-%202025-04-09T151950.148.png"
+      ],
       "sizes": "3 a 6,5 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "3.5 m²",
@@ -501,7 +656,11 @@
       "anio": 2025,
       "usd": 1532,
       "img": "https://northactionsports.com/cdn/shop/files/product_image_85014250020_810_01.png?v=1770905791&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85014250020_810_01.png?v=1770905791&width=700"
+      ],
       "sizes": "2,5 a 7 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "4.8 m²",
@@ -544,10 +703,16 @@
       "tipo": "wing",
       "marca": "North",
       "modelo": "Nova",
-      "anio": 2025,
+      "anio": 2026,
       "usd": 1451,
-      "img": "",
+      "img": "https://northactionsports.com/cdn/shop/files/product_image_85014260005_415_01.png?v=1785748839&width=750",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/product_image_85014260005_415_01.png?v=1785748839&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85014260005_415_02.png?v=1785748839&width=750",
+        "https://northactionsports.com/cdn/shop/files/product_image_85014260005_415_04.png?v=1785748839&width=750"
+      ],
       "sizes": "3 a 6,5 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "3.5 m²",
@@ -593,7 +758,9 @@
       "anio": 2025,
       "usd": 1580,
       "img": "",
+      "imgs": [],
       "sizes": "2,5 a 5,5 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "6 m²",
@@ -631,7 +798,9 @@
       "anio": 2025,
       "usd": 886,
       "img": "",
+      "imgs": [],
       "sizes": "2 a 5 m² (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "3.2 m²",
@@ -681,7 +850,11 @@
       "anio": 2026,
       "usd": 967,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS_1748X2300PX.png?v=1755161455&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS_1748X2300PX.png?v=1755161455&width=700"
+      ],
       "sizes": "135 a 144 cm (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "136 cm",
@@ -728,7 +901,11 @@
       "anio": 2026,
       "usd": 1402,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS-PRO_1748X2300PX.png?v=1755161408&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ATMOS-PRO_1748X2300PX.png?v=1755161408&width=700"
+      ],
       "sizes": "135 a 144 cm (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "136 cm",
@@ -783,7 +960,11 @@
       "anio": 2026,
       "usd": 1088,
       "img": "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ASTRA_1748X2300PX.png?v=1755161473&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NAG_MY26.1_CDP_FILTER-IMAGE_ASTRA_1748X2300PX.png?v=1755161473&width=700"
+      ],
       "sizes": "134 a 142 cm (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "132 cm",
@@ -830,7 +1011,11 @@
       "anio": 2025,
       "usd": 940,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PRIME_1748X2300_1e07d6e0-d415-4a3e-9f59-c1211c517fb7.png?v=1773145681&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_PRIME_1748X2300_1e07d6e0-d415-4a3e-9f59-c1211c517fb7.png?v=1773145681&width=700"
+      ],
       "sizes": "138 a 144 cm (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "136 cm",
@@ -881,7 +1066,11 @@
       "anio": 2025,
       "usd": 1047,
       "img": "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_FLARE_1748X2300PX.png?v=1741000008&width=700",
+      "imgs": [
+        "https://northactionsports.com/cdn/shop/files/NKB_MY25.2_CDP-FILTER_FLARE_1748X2300PX.png?v=1741000008&width=700"
+      ],
       "sizes": "137 a 143 cm (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "143 cm",
@@ -920,7 +1109,9 @@
       "anio": 2025,
       "usd": 1537,
       "img": "",
+      "imgs": [],
       "sizes": "5'2\" a 6'2\" (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "5 3",
@@ -958,7 +1149,9 @@
       "anio": 2025,
       "usd": 1003,
       "img": "",
+      "imgs": [],
       "sizes": "Líneas 22/24 m · S/M (consultá)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "38 43",
@@ -997,7 +1190,9 @@
       "anio": 2025,
       "usd": 538,
       "img": "",
+      "imgs": [],
       "sizes": "XS a XL (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "M",
@@ -1043,7 +1238,9 @@
       "anio": 2025,
       "usd": 290,
       "img": "",
+      "imgs": [],
       "sizes": "XS a XL (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "S",
@@ -1093,7 +1290,9 @@
       "anio": 2025,
       "usd": 855,
       "img": "",
+      "imgs": [],
       "sizes": "XS a XL (consultá talle)",
+      "destacado": false,
       "variantes": [
         {
           "talle": "Xs",
