@@ -10,7 +10,40 @@
   ],
   "productos": [
     {
-      "id": "nuevo-producto-2026-6",
+      "id": "nuevo-producto-2026-8",
+      "cat": "Usados",
+      "tipo": "kite",
+      "marca": "North",
+      "modelo": "Orbit",
+      "anio": 2022,
+      "usd": 890,
+      "img": "img/productos/p_20261027_173830_3bbecb.jpg",
+      "imgs": [
+        "img/productos/p_20261027_173830_3bbecb.jpg",
+        "img/productos/p_20261027_173836_6e271c.jpg",
+        "img/productos/p_20261027_173843_00cde4.jpg",
+        "img/productos/p_20261027_173850_c64d12.jpg"
+      ],
+      "sizes": "12m2",
+      "destacado": false,
+      "variantes": [
+        {
+          "talle": "12m2",
+          "usd": 0
+        }
+      ],
+      "specs": [],
+      "incluye": [
+        "Kite",
+        "Bolso",
+        "Barra"
+      ],
+      "desc": "El Orbit es el kite insignia de la marca en big air",
+      "descLarga": "",
+      "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-7",
       "cat": "Kites",
       "tipo": "kite",
       "marca": "North",
@@ -27,6 +60,50 @@
       "desc": "",
       "descLarga": "",
       "feats": []
+    },
+    {
+      "id": "nuevo-producto-2026-6",
+      "cat": "Usados",
+      "tipo": "wing",
+      "marca": "North",
+      "modelo": "Mode Pro",
+      "anio": 2024,
+      "usd": 550,
+      "img": "img/productos/p_20261027_171359_56e605.jpg",
+      "imgs": [
+        "img/productos/p_20261027_171359_56e605.jpg",
+        "img/productos/p_20261027_171423_dee9d3.jpg",
+        "img/productos/p_20261027_171431_be8322.jpg",
+        "img/productos/p_20261027_171440_a6a823.jpg"
+      ],
+      "sizes": "4.8 m2",
+      "destacado": false,
+      "variantes": [
+        {
+          "talle": "4.8m2",
+          "usd": 0
+        }
+      ],
+      "specs": [
+        {
+          "label": "Disciplina",
+          "value": "Freeride / Olas"
+        },
+        {
+          "label": "Construcción",
+          "value": "Wing de alto rendimiento"
+        }
+      ],
+      "incluye": [
+        "Wing",
+        "Bolsa de transporte"
+      ],
+      "desc": "Wing de alto rendimiento, liviana y con un feeling directo. Buen low-end y mucha estabilidad para freeride y olas.",
+      "descLarga": "Usado. Buen estado, listo para usar. La tela conserva una excelente tensión y los materiales estructurales se mantienen firmes. Las válvulas, costuras y el borde de ataque están en perfectas condiciones. Presenta marcas de uso estético normales del spot, sin reparaciones que afecten el perfil de vuelo o la presión de inflado.",
+      "feats": [
+        "Buen Low end",
+        "Tiene dos preventivos minimos que se hicieron con roce."
+      ]
     },
     {
       "id": "nuevo-producto-2026-5",
