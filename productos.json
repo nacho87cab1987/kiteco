@@ -1,5 +1,5 @@
 {
-  "dolar": 1510,
+  "dolar": 1515,
   "categorias": [
     "Kites",
     "Wings",
@@ -44,22 +44,29 @@
     },
     {
       "id": "nuevo-producto-2026-7",
-      "cat": "Kites",
-      "tipo": "kite",
+      "cat": "Usados",
+      "tipo": "tabla",
       "marca": "North",
-      "modelo": "Nuevo producto",
-      "anio": 2026,
-      "usd": 0,
-      "img": "",
-      "imgs": [],
-      "sizes": "",
+      "modelo": "Cross",
+      "anio": 2022,
+      "usd": 400,
+      "img": "img/productos/p_20261029_200529_86c824.jpg",
+      "imgs": [
+        "img/productos/p_20261029_200529_86c824.jpg",
+        "img/productos/p_20261029_200545_251c92.jpg"
+      ],
+      "sizes": "5,2",
       "destacado": false,
       "variantes": [],
       "specs": [],
-      "incluye": [],
-      "desc": "",
-      "descLarga": "",
-      "feats": []
+      "incluye": [
+        "Tabla y quillas"
+      ],
+      "desc": "La tabla esta impecable",
+      "descLarga": "Una tabla de freeride polivalente súper cómoda y de tallado suave que combina sin esfuerzo la línea entre el surf y el estilo libre sin straps.\n\nAnimada y con capacidad de respuesta, con aceleración sin esfuerzo y salida del riel, la Cross fue creada para destrozar las olas en un área de surf en constante cambio, navegar en condiciones reales en tierra, aguas tranquilas y chop. Proporciona un volumen y un ancho generosos para una conducción divertida y tolerante con una gran velocidad contra el viento y un pop sólido para los trucos de estilo libre.\n\nCon rieles agarrables en la plataforma superior para facilitar el manejo del aire y almohadillas de plataforma cómodas y contorneadas para un mejor control.\n\ncarvea, salta, explota. Con o sin straps, la Cross es tu dia a dia para una sola tabla. El todoterreno definitivo, familiar al instante, intuitivo y fácil de manejar.\n\n",
+      "feats": [
+        "Freeride"
+      ]
     },
     {
       "id": "nuevo-producto-2026-6",
