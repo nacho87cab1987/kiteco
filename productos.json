@@ -16,7 +16,7 @@
       "marca": "North",
       "modelo": "Orbit",
       "anio": 2022,
-      "usd": 890,
+      "usd": 950,
       "img": "img/productos/p_20261027_173830_3bbecb.jpg",
       "imgs": [
         "img/productos/p_20261027_173830_3bbecb.jpg",
@@ -116,20 +116,31 @@
       "id": "nuevo-producto-2026-5",
       "cat": "Kites",
       "tipo": "kite",
-      "marca": "North",
-      "modelo": "Nuevo producto",
-      "anio": 2026,
-      "usd": 0,
-      "img": "",
-      "imgs": [],
-      "sizes": "",
+      "marca": "Crazyfly",
+      "modelo": "Sculp",
+      "anio": 2020,
+      "usd": 1200,
+      "img": "img/productos/p_20261111_165830_514029.jpg",
+      "imgs": [
+        "img/productos/p_20261111_165830_514029.jpg",
+        "img/productos/p_20261111_165846_9e0a1b.jpg",
+        "img/productos/p_20261111_165910_a9dc1e.jpg"
+      ],
+      "sizes": "12m",
       "destacado": false,
       "variantes": [],
       "specs": [],
-      "incluye": [],
-      "desc": "",
-      "descLarga": "",
-      "feats": []
+      "incluye": [
+        "kite - Barra - Leash"
+      ],
+      "desc": "- Freeride / Freestyle / Foil -\n\nDefinitivamente el Sculp es tu kite si lo que estas buscando es tener un kite que sirva para todas las disciplinas!",
+      "descLarga": "Extremadamente estable y predecible.\nSuper ágil.\nExcelente potencia y hangtime.\nFácil relanzamiento del agua.",
+      "feats": [
+        "Extremadamente estable y predecible.",
+        "Super ágil.",
+        "Excelente potencia y hangtime.",
+        "Fácil relanzamiento del agua."
+      ]
     },
     {
       "id": "nuevo-producto-2026-4",
@@ -306,6 +317,10 @@
         {
           "talle": "8 m²",
           "usd": 2274
+        },
+        {
+          "talle": "9 m²",
+          "usd": 2370
         },
         {
           "talle": "10 m²",
