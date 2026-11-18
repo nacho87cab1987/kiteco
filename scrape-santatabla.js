@@ -62,7 +62,10 @@ async function harvestProduct(page, url) {
   await page.setViewport({ width: 1280, height: 900 });
 
   const dolar = (await getDolar(page)) || CONFIG.fallbackDolar || 1490;
-  console.log('Dólar Santa Tabla:', dolar);
+  // Santa Tabla muestra el precio de lista/tarjeta. Nosotros guardamos el de
+  // transferencia/efectivo = ese precio menos el descuento (10% => factor 0.9).
+  const factor = (typeof CONFIG.factorPrecio === 'number' && CONFIG.factorPrecio > 0) ? CONFIG.factorPrecio : 0.9;
+  console.log('Dólar Santa Tabla:', dolar, '· factor precio:', factor);
 
   const data = JSON.parse(fs.readFileSync(PRODUCTS_PATH, 'utf8'));
   const byId = Object.fromEntries(data.productos.map(p => [p.id, p]));
@@ -75,7 +78,7 @@ async function harvestProduct(page, url) {
       const vars = raw
         .map(r => ({
           talle: item.unit ? `${r.talle} ${item.unit}`.trim() : r.talle,
-          usd: Math.round(parseARS(r.ars) / dolar)
+          usd: Math.round(parseARS(r.ars) * factor / dolar)
         }))
         .filter(v => v.talle && isFinite(v.usd) && v.usd > 0);
 
