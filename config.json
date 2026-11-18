@@ -2,6 +2,7 @@
   "productosPath": "productos.json",
   "dolarUrl": "https://santatabla.com/shop/tienda-de-Kite-86",
   "fallbackDolar": 1485,
+  "factorPrecio": 0.9,
   "_comentario": "Links de Santa Tabla por producto. Cambian cada año (ej. Orbit 2027 = producto-8442). Catálogo completo (22/22).",
   "productos": [
     {
